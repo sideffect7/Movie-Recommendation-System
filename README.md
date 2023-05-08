@@ -1,1 +1,3 @@
 # Movie-recommendation-system
+
+This Ml model provides movie suggestions or recommendations to users based on their movie preferences. This recommendation system is a content based recommendation system. The primary goal of the movie recommendation system is to improve the user's experience by providing them with a list of movies that match their interests and preferences, thereby increasing the likelihood of user engagement and retention. Movie recommendation systems can be found on streaming services like Netflix, Hulu, Amazon Prime, etc. and are widely used to enhance the user experience and increase customer satisfaction.
